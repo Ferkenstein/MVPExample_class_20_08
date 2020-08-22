@@ -7,4 +7,5 @@ public interface IViewPresenter {
     void showMedium();
 
     void showStrong();
+
 }

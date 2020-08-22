@@ -22,4 +22,5 @@ public class Verifier implements IVerifier {
     public boolean evaluateUpper(String password) {
         return !password.toLowerCase().equals(password);
     }
+
 }

@@ -27,4 +27,6 @@ public class VerifierPresenter implements IPresenter {
             break;
         }
     }
+
+
 }
